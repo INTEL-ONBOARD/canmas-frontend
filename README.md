@@ -16,7 +16,6 @@ Welcome to the CANMAS Enterprises application repository! This document outlines
   - [Dashboard](#dashboard)
 - [Contributing](#contributing)
 - [License](#license)
-
 ---
 
 ## Screens Overview
@@ -27,19 +26,19 @@ The login screen is the entry point for users. It includes fields for username/e
 
 **Components:**
 - **📄 Fields:**
-  - **👤 Username/Email Field:** User input required
-  - **🔒 Password Field:** User input required
+  - ** Username/Email Field:** User input required
+  - ** Password Field:** User input required
 - **🔘 Buttons:**
-  - **➡️ Login:** Initiates authentication
-  - **🔑 Forgot Password:** Redirects to password recovery flow
-  - **✍️ Sign Up:** Redirects to the registration screen
+  - **Login:** Initiates authentication
+  - **Forgot Password:** Redirects to password recovery flow
+  - **Sign Up:** Redirects to the registration screen
 
 **⚠️ Error Messages:**
 - "Invalid username or password. Please try again."
 - "Username and password cannot be empty."
 
 **Content:**  
-> "Connecting you with fresh, high-quality produce straight from our farms to your doorstep. Discover our wide range of fruits, vegetables, and more."
+> "Connecting you with fresh, high-quality produce straight from our farms to your doorstep. Discover our wide range of fruits, vegetables, and more. Join us on the journey to a healthier lifestyle."
 
 ---
 
@@ -49,13 +48,13 @@ The registration screen collects user information to create a new account.
 
 **Components:**
 - **📄 Fields:**  
-  - **🧑 First Name**
-  - **👩 Last Name**
-  - **📧 Email**
-  - **🔒 Password**
-  - **🔒 Confirm Password**
+  - **First Name**
+  - **Last Name**
+  - **Email**
+  - **Password**
+  - **Confirm Password**
 - **🔘 Buttons:**  
-  - **➡️ Register:** Creates a new user account
+  - **Register:** Creates a new user account
 
 **⚠️ Error Messages:**
 - "Please fill in all required fields."
@@ -66,7 +65,10 @@ The registration screen collects user information to create a new account.
 > "Account created successfully. You can now log in."
 
 **Content:**  
-> "Sign up and join the CANMAS community to enjoy exclusive offers and personalized recommendations."
+> “Sign Up and Join the CANMAS Community”
+> "Become a part of our growing community and experience the freshness of our produce. Sign up now and enjoy exclusive offers and personalized recommendations  
+Explore"
+
 
 ---
 
@@ -76,9 +78,9 @@ Allows users to initiate the password reset process by entering their registered
 
 **Components:**
 - **📄 Fields:**  
-  - **📧 Email:** Input the registered email for verification
+  - **Email:** Input the registered email for verification
 - **🔘 Buttons:**  
-  - **➡️ Submit:** Triggers OTP to the provided email
+  - ** Submit:** Triggers OTP to the provided email
 
 **⚠️ Error Messages:**
 - "Email not registered. Please check your email."
@@ -98,9 +100,9 @@ Prompts the user to enter the OTP sent to their email for identity verification.
 
 **Components:**
 - **📄 Fields:**  
-  - **🔢 OTP Input:** 6-digit code field
+  - ** OTP Input:** 6-digit code field
 - **🔘 Buttons:**  
-  - **➡️ Submit:** Validates OTP and proceeds to password reset
+  - **➡Submit:** Validates OTP and proceeds to password reset
 
 **⚠️ Error Messages:**
 - "Invalid OTP. Please try again."
@@ -120,10 +122,10 @@ Users are prompted to create a new password after OTP verification.
 
 **Components:**
 - **📄 Fields:**  
-  - **🔒 New Password**
-  - **🔒 Confirm Password**
+  - **New Password**
+  - **Confirm Password**
 - **🔘 Buttons:**  
-  - **➡️ Reset Password:** Sets a new password
+  - **Reset Password:** Sets a new password
 
 **⚠️ Error Messages:**
 - "Passwords do not match."
@@ -145,7 +147,7 @@ Confirms successful password reset.
 > "Password reset successfully! You can now log in with your new password."
 
 **🔘 Buttons:**  
-- **➡️ Login:** Redirects to the login screen
+- **Login:** Redirects to the login screen
 
 **Content:**  
 > "Your password has been successfully reset."
@@ -160,7 +162,7 @@ Notifies the user if the password reset process fails.
 > "Password reset failed. Please try again."
 
 **🔘 Buttons:**  
-- **🔄 Retry:** Redirects back to the password reset process
+- **Retry:** Redirects back to the password reset process
 
 **Content:**  
 > "We're sorry, something went wrong. Please try again."
@@ -174,18 +176,18 @@ Notifies the user if the password reset process fails.
 The Home Dashboard provides an overview of business metrics and recent activities.
 
 **📊 Metrics Display:**
-- **💰 Earnings:** Total revenue
-- **👥 Clients:** Number of clients
-- **📈 Sales:** Total sales count
-- **📦 Orders:** Active orders count
-- **📝 Recent Orders:** List of the latest orders with clickable order IDs
+- **•Earnings:** Total revenue
+- **•Clients:** Number of clients
+- **•Sales:** Total sales count
+- **•Orders:** Active orders count
+- **•Recent Orders:** List of the latest orders with clickable order IDs
 
 **⚡ Quick Actions:**  
-- **📥 Update Stock**
-- **🧾 View Orders**
-- **🔒 Reset Password**
-- **📊 View Sales**
-- **🛒 Create New Order**
+- **•Update Stock**
+- **•View Orders**
+- **•Reset Password**
+- **•View Sales**
+- **•Create New Order**
 
 ---
 
@@ -194,12 +196,12 @@ The Home Dashboard provides an overview of business metrics and recent activitie
 Manage the product inventory, search, and update stock.
 
 **Product States:**
-- **📦 dashboard-product:** Displays product list
-- **🔍 dashboard-product search:** Shows search results
-- **🚫 dashboard-product not found:** No products match the search
-- **✅ dashboard-product success:** Indicates successful updates
-- **❌ dashboard-product failed:** Indicates update failure
-- **⏳ dashboard-product updating:** Loader shown during updates
+- ** dashboard-product:** Displays product list
+- ** dashboard-product search:** Shows search results
+- ** dashboard-product not found:** No products match the search
+- ** dashboard-product success:** Indicates successful updates
+- ** dashboard-product failed:** Indicates update failure
+- ** dashboard-product updating:** Loader shown during updates
 
 **🔍 Search Functionality:**  
 Users can filter products by name, category, or supplier.
@@ -211,13 +213,13 @@ Users can filter products by name, category, or supplier.
 The Settings section allows users to manage their profile and reset their password.
 
 - **👤 Profile Settings:**  
-  - **📄 Fields:** Name, Email, Contact Number
-  - **📸 Avatar Upload Option**
+  - ** Fields:** Name, Email, Contact Number
+  
 
 - **🔒 Password Reset Flow:**  
-  - **🔢 Enter OTP**
-  - **🔒 Create New Password**
-  - **✅ Display success or ❌ error message based on the outcome**
+  - ** Enter OTP**
+  - ** Create New Password**
+  - ** Display success or ❌ error message based on the outcome**
 
 **Content:**  
 > "Manage your account details and keep your preferences updated. Personalized recommendations and notifications help enhance your experience."
