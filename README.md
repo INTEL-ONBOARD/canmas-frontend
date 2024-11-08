@@ -6,16 +6,16 @@ Welcome to the CANMAS Enterprises application repository! This document outlines
 
 ## 📋 Table of Contents
 - [Screens Overview](#screens-overview)
-  - [🔐 Login Screen](#1-login-screen)
-  - [📝 Register Screen](#2-register-screen)
-  - [🔑 Forgot Password Screen](#3-forgot-password-screen)
-  - [🔢 Enter OTP Screen](#4-enter-otp-screen)
-  - [🔒 Create a New Password Screen](#5-create-a-new-password-screen)
-  - [✅ Password Reset Success Screen](#6-password-reset-success-screen)
-  - [❌ Password Reset Failed Screen](#7-password-reset-failed-screen)
-  - [📊 Dashboard](#dashboard)
-- [🤝 Contributing](#contributing)
-- [📜 License](#license)
+  - [Login Screen](#1-login-screen)
+  - [Register Screen](#2-register-screen)
+  - [Forgot Password Screen](#3-forgot-password-screen)
+  - [Enter OTP Screen](#4-enter-otp-screen)
+  - [Create a New Password Screen](#5-create-a-new-password-screen)
+  - [Password Reset Success Screen](#6-password-reset-success-screen)
+  - [Password Reset Failed Screen](#7-password-reset-failed-screen)
+  - [Dashboard](#dashboard)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
