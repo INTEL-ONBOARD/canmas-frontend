@@ -205,12 +205,12 @@ The Home Dashboard provides an overview of business metrics and recent activitie
 Manage the product inventory, search, and update stock.
 
 **Product States:**
-- ** dashboard-product:** Displays product list
-- ** dashboard-product search:** Shows search results
-- ** dashboard-product not found:** No products match the search
-- ** dashboard-product success:** Indicates successful updates
-- ** dashboard-product failed:** Indicates update failure
-- ** dashboard-product updating:** Loader shown during updates
+- dashboard-product: Displays product list
+- dashboard-product search: Shows search results
+- dashboard-product not found: No products match the search
+- dashboard-product success: Indicates successful updates
+- dashboard-product failed: Indicates update failure
+- dashboard-product updating: Loader shown during updates
 
 **🔍 Search Functionality:**  
 Users can filter products by name, category, or supplier.
@@ -226,9 +226,9 @@ The Settings section allows users to manage their profile and reset their passwo
   
 
 - **🔒 Password Reset Flow:**  
-  - ** Enter OTP**
-  - ** Create New Password**
-  - ** Display success or ❌ error message based on the outcome**
+  -  Enter OTP
+  -  Create New Password
+  -  Display success or ❌ error message based on the outcome
 
 **Content:**  
 > "Manage your account details and keep your preferences updated. Personalized recommendations and notifications help enhance your experience."
@@ -237,15 +237,16 @@ The Settings section allows users to manage their profile and reset their passwo
  
  **Content:** 
 **👤Profile - Main Section [Loram Ipsum]:**
-    "•Welcome to Your Canmas Enterprises Profile
-    "Here, you can manage your personal information and account settings to enhance your shopping experience with us. Keeping your profile up-to-date helps us serve you better with personalized recommendations,     exclusive offers, and seamless order tracking. Your satisfaction is our priority, and we're committed to delivering the freshest produce right to your doorstep.""
+"•Welcome to Your Canmas Enterprises Profile
+"Here, you can manage your personal information and account settings to enhance your shopping experience with us. Keeping your profile up-to-date helps us serve you better with personalized recommendations,     exclusive offers, and seamless order tracking. Your satisfaction is our priority, and we're committed to delivering the freshest produce right to your doorstep."
 
-  **👤Profile Settings [Loram Ipsum]:**
-  "•Personalize Your Canmas Experience 
-  “Manage your account details effortlessly. Keep your name, contact information, and preferences updated to receive timely updates on new arrivals, special offers, and order notifications. Your profile settings are where you can ensure we deliver the best service tailored just for you.”"
+**👤Profile Settings [Loram Ipsum]:**
+"•Personalize Your Canmas Experience 
+“Manage your account details effortlessly. Keep your name, contact information, and preferences updated to receive timely updates on new arrivals, special offers, and order notifications. Your profile settings are where you can ensure we deliver the best service tailored just for you.”
 
 **🔑Reset Password [Loram Ipsum]:**
-"“Your security is important to us. If you've forgotten your password or simply wish to update it, you can reset it here quickly and easily. We recommend choosing a strong, unique password to keep your account safe.”"
+“Your security is important to us. If you've forgotten your password or simply wish to update it, you can reset it here quickly and easily. We recommend choosing a strong, unique password to keep your account safe.”
+
 ---
 
 ### 🧑‍💼 Dashboard – Client
